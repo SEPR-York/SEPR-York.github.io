@@ -12,7 +12,7 @@ Requirements download: [Updated Requirements](/downloads/Req2.pdf)
 
 ## Plan
 
-The plan has not been updated..... TO BE COMPLETED
+There have been a few minor updates to the plan, which consist of changing a few deadline dates so that they now read 2017 instead of 2016, and added more information as to why people assigned to task.
 
 Plan download: [Plan](/downloads/plan2.pdf)
 
