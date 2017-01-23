@@ -4,4 +4,12 @@ title: Downloads
 permalink: /downloads/
 ---
 
-Downloads:
+## First Assessment
+Zip file: [Assessment 1](/downloads/Gandhi-Inc.zip)
+
+## Second Assessment
+Zip file: [Assessment 2](/downloads/Gandhi-Inc2.zip)
+
+Jar executable: [Jar file](/downloads/)
+
+Instructions: [Read Me](/downloads/readme.pdf)
