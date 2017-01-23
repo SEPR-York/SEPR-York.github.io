@@ -6,6 +6,16 @@ permalink: /updates/
 
 ## Requirements
 
+We have updated the requirements...
+
+Requirements download: [Requirements](/downloads/)
+
 ## Plan
 
+The plan has not been updated..... TO BE COMPLETED
+
+Plan download: [Plan](/downloads/)
+
 ## Risk Assessment
+
+Risk Assessment download: [Updated Risk Assessment](/downloads/)
