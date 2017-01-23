@@ -8,7 +8,7 @@ permalink: /updates/
 
 We have updated the requirements...
 
-Requirements download: [Updated Requirements](/downloads/Req2)
+Requirements download: [Updated Requirements](/downloads/Req2.pdf)
 
 ## Plan
 
