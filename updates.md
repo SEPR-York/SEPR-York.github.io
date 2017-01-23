@@ -18,4 +18,6 @@ Plan download: [Plan](/downloads/plan2.pdf)
 
 ## Risk Assessment
 
+Changes to the likelihood and impact of risks have been updated based on our experiences.
+
 Risk Assessment download: [Updated Risk Assessment](/downloads/RiskAssessmentUpdate.pdf)
