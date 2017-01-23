@@ -1,3 +1,9 @@
+---
+layout: page
+title: Read Me
+permalink: /read/
+---
+
 # Gandhi-Inc.
 
 ## Setup
