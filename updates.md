@@ -18,4 +18,4 @@ Plan download: [Plan](/downloads/)
 
 ## Risk Assessment
 
-Risk Assessment download: [Updated Risk Assessment](/downloads/)
+Risk Assessment download: [Updated Risk Assessment](/downloads/RiskAssessmentUpdate.pdf)
