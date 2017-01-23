@@ -4,8 +4,6 @@ title: Read Me
 permalink: /read/
 ---
 
-# Gandhi-Inc.
-
 ## Setup
 To set up for the eclipse IDE run the command `./gradlew eclipse` in the root of the project.
 
