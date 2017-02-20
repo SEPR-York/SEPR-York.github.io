@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Read Me Old
-permalink: /readmeold/
+permalink: read/readmeold/
 ---
 
 ## Setup
