@@ -31,7 +31,7 @@ Jar executable: [Jar file](/downloads/assessment3.jar)
 
 Github Repository: [Repository](https://github.com/SEPR-York/SEPR)
 
-User Manual: [Read Me](/downloads/ReadMe.pdf)
+User Manual: [Read Me](/downloads/ReadMe.pdf) [Editable Read Me](/downloads/EditableUserManual.docx)
 
 Change Report: [Change3](/downloads/Change3.pdf)
 
