@@ -8,4 +8,4 @@ permalink: /read/
 THIS IS FOR OUR NEW ReadMe
 
 
-## For the ReadMe for Assessment 1 and 2 please see [here](www.)
+## For the ReadMe for Assessment 1 and 2 please see [here](www.gandhi-inc.me/readmeold)
