@@ -22,6 +22,8 @@ State Machine: [Diagram](/downloads/StateMachine.png)
 
 JavaDocs [JavaDocs](/olddoc/index.html)
 
+Assessment 2 Updates [Updates](/oldupdates)
+
 ## Third Assessment
 Zip file: [Assessment 3](/downloads/Gandhi_Inc.zip)
 
