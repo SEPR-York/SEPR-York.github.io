@@ -4,8 +4,7 @@ title: Read Me
 permalink: /read/
 ---
 
-## Setup
-THIS IS FOR OUR NEW ReadMe
+## ReadMe for Assessment 3
 
 
 
