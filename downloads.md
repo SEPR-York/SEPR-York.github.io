@@ -14,17 +14,25 @@ Jar executable: [Jar file](/downloads/blindeye.jar)
 
 Github Repository: [Repository](https://github.com/SEPR-York/Gandhi-Inc.)
 
-Instructions: [Read Me](/downloads/ReadMe.pdf)
+Instructions: [Read Me](/downloads/ReadMeOld.pdf)
 
 Architecture Class Diagram: [Diagram](/downloads/ArchitectureClassDiagram.png)
 
 State Machine: [Diagram](/downloads/StateMachine.png)
 
+JavaDocs [JavaDocs](/olddoc/index.html)
+
 ## Third Assessment
-Zip file: [Assessment 2](/downloads/Gandhi_Inc.zip)
+Zip file: [Assessment 3](/downloads/Gandhi_Inc.zip)
 
 Jar executable: [Jar file](/downloads/name.jar)
 
 Github Repository: [Repository](https://github.com/SEPR-York/SEPR)
 
 User Manual: [Read Me](/downloads/ReadMe.pdf)
+
+Change Report: [Change3](/downloads/Change3.pdf)
+
+Implementation Report [Impl3](/downloads/Impl3.pdf)
+
+Duck Related Team Name's Assessment 1 & 2 [DRTN](/downloads/DRTN.zip)
