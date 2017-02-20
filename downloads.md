@@ -27,7 +27,7 @@ Assessment 2 Updates [Updates](/oldupdates)
 ## Third Assessment
 Zip file: [Assessment 3](/downloads/Gandhi_Inc.zip)
 
-Jar executable: [Jar file](/downloads/name.jar)
+Jar executable: [Jar file](/downloads/assessment3.jar)
 
 Github Repository: [Repository](https://github.com/SEPR-York/SEPR)
 
