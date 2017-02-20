@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Updates
-permalink: /updates/
+title: Old Updates
+permalink: /oldupdates/
 ---
 
 ## Requirements
