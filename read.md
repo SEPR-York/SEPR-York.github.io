@@ -14,7 +14,7 @@ Development Build Status: [![Build Status](https://travis-ci.org/SEPR-York/Asses
 All of our code for the game to run is located in "core/src/com/mygdx/game". The test files are located in "tests/src/com/mygdx/game"
 
 ### Testing
-We have used "travis-ci.org" to make sure all the code that is pushed to github compiles and that all of our Unit Tests successed on every push to the development branch so you can quickly identify if something you have pushed has broken the game in some way, our travis is located at https://travis-ci.org/SEPR-York/SEPR
+We have used "travis-ci.org" to make sure all the code that is pushed to github compiles and that all of our Unit Tests successed on every push to the development branch so you can quickly identify if something you have pushed has broken the game in some way, our travis is located at https://travis-ci.org/SEPR-York/Assessment4
 
 ### Building
 
@@ -33,6 +33,4 @@ To run the tests run the command "./gradlew check" on Linux and MAC OS and "grad
 This is are only branch
 
 
-
-
-For the ReadMe for Assessment 1 and 2 please see [here](readmeold)
+For the ReadMe for older assessments please see [here](readmeold)
