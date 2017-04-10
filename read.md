@@ -7,7 +7,7 @@ permalink: /read/
 #Gandhi-Inc. SEPR
 Team: [Will](https://github.com/will6767), [Luke](https://github.com/lrj509), [Steven](https://github.com/smt529), [Robert](https://github.com/ras570), [Pedro](https://github.com/Wigder).
 
-Development Build Status: [![Build Status](https://travis-ci.org/SEPR-York/SEPR.svg?branch=Development)](https://travis-ci.org/SEPR-York/SEPR)
+Development Build Status: [![Build Status](https://travis-ci.org/SEPR-York/Assessment4.svg?branch=master)](https://travis-ci.org/SEPR-York/Assessment4)
 
 ---
 ## Where to Find our Code
