@@ -39,6 +39,8 @@ Implementation Report [Impl3](/downloads/Impl3.pdf)
 
 Duck Related Team Name's Assessment 1 & 2 [DRTN](/downloads/DRTN.zip)
 
+JavaDocs [JavaDocs](/doc3/index.html)
+
 ## Fourth Assessment
 Zip file: [Assessment 4](/downloads/Gandhi-Inc.zip)
 
