@@ -57,6 +57,6 @@ Evaluation and Testing report: [ET4](/downloads/ET4.pdf)
 
 Implementation Report: [Impl4](/downloads/Impl4.pdf)
 
-Project Review Report: [Review4](/downloads/review4.pdf)
+Project Review Report: [Review4](/downloads/Review4.pdf)
 
-Updated requirements [Requirements](/downloads/req4.pdf)
+Updated requirements [Requirements](/downloads/Req4.pdf)
