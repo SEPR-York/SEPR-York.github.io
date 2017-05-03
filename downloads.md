@@ -55,14 +55,14 @@ Zip file: [Assessment 4](/downloads/Gandhi-Inc.zip)
 
 Jar executable: [Jar file](/downloads/assessment4.jar)
 
-Architecture UML Diagram: [UML Diagram](/downloads/FinalUMLArchitectureImage.png)
+Architecture UML Diagram: [UML Diagram](downloads/FinalUMLArchitectureImage.png)
 
-Final Architecture and Traceability Report: [AT4](/downloads/AT4.pdf)
+Final Architecture and Traceability Report: [AT4](downloads/AT4.pdf)
 
-Evaluation and Testing report: [ET4](/downloads/ET4.pdf)
+Evaluation and Testing report: [ET4](downloads/ET4.pdf)
 
-Implementation Report: [Impl4](/downloads/Impl4.pdf)
+Implementation Report: [Impl4](downloads/Impl4.pdf)
 
-Project Review Report: [Review4](/downloads/review4.pdf)
+Project Review Report: [Review4](downloads/review4.pdf)
 
-Updated requirements [Requirements](/downloads/Req4.pdf)
+Updated requirements [Requirements](downloads/req4.pdf)
