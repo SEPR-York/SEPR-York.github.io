@@ -24,10 +24,6 @@ JavaDocs [JavaDocs](/olddoc/index.html)
 
 Assessment 2 Updates [Updates](/oldupdates)
 
-Previous plan: [Plan2](/downloads/Plan2old.pdf)
-
-Previous Risk Assessment: [Risk2](/downloads/Risk2.pdf)
-
 ## Third Assessment
 Zip file: [Assessment 3](/downloads/Gandhi_Inc3.zip)
 
@@ -45,9 +41,7 @@ Duck Related Team Name's Assessment 1 & 2 [DRTN](/downloads/DRTN.zip)
 
 JavaDocs [JavaDocs](/doc3/index.html)
 
-Updated Risk Assessment: [Risk3](/downloads/Risk3.pdf)
-
-Updated plan: [Plan3](/downloads/Plan3.pdf)
+Assessment 3 Updates [Updates](/oldUpdates3)
 
 
 ## Fourth Assessment
